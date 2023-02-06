@@ -3,7 +3,7 @@
 
 title: Yudi Li Page
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  This is Yudi Li page.
 # baseurl: "/bay" # the subpath of the site
 url: "https://ydbug.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
@@ -14,6 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Work
+    - name: Publication
     - name: Blog
 
 footer:
