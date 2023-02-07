@@ -22,9 +22,11 @@
               {% for post in site.posts %}
 
               {% if post.title == item.title %}
-                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="publication-post-title">
-                  {{ item.title }}
-                </a>
+                <strong>
+                  <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="publication-post-title">
+                    {{ item.title }}
+                  </a>
+                </strong>
                 <br />
 
               {% endif %}
