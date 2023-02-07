@@ -2,7 +2,7 @@
 layout: post
 title:  "N-Cloth：Predicting 3D Cloth Deformation with Mesh-Based Networks"
 date:   2022-06-10 10:00:00
-blurb: "A look at an example post using Bay Jekyll theme."
+blurb: "N-Cloth：Predicting 3D Cloth Deformation with Mesh-Based Networks"
 og_image: /assets/img/content/post-example/NCloth.jpg
 ---
 
