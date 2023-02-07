@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme.
+  Welcome! I am a PhD student in the college of computer science and technology at Zhejiang University. I am supervised by professor Min Tang. I completed my Master degree at Harbin Institute of Technology. I received my Bachelor degree in Northeast Petroleum University.
 </p>
 
 <p>
