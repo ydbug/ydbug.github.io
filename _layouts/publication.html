@@ -19,7 +19,19 @@
               class="publication-bubble"
             />
             <span class="publication-text">
-              <strong>{{ item.title }}</strong>
+              {% for post in site.posts %}
+
+              {% if post.title == item.title %}
+                <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
+                <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
+                  {{ item.title }}
+                </a>
+                <br />
+
+              {% endif %}
+
+            {% endfor %}
+              <!-- <strong>{{ item.title }}</strong> -->
               &mdash;
               {{ item.description }}
             </span>
