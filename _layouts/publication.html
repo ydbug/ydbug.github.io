@@ -19,22 +19,8 @@
               class="pub-bubble"
             />
             <span class="pub-text">
-              {% for post in site.posts %}
-
-                {% if post.draft != true %}
-                  <strong>
-                    <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="pub-post-title">
-                      {{ item.title }}
-                    </a>
-                    <br />
-                  </strong>
-                  
-                  
-                {% endif %}
-  
-              {% endfor %}
-              <!-- <strong>{{ item.title }}</strong> -->
-              <!-- &mdash; -->
+              <strong>{{ item.title }}</strong>
+              &mdash;
               {{ item.description }}
             </span>
           </div>
