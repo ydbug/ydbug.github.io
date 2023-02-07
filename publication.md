@@ -1,7 +1,7 @@
 ---
-layout: publication
+layout: pub
 title: Publication
-slug: /publication
+slug: /pub
 items:
   - title: CTSN：Predicting Cloth Deformation for Skeleton-based Characters with a Two-stream Skinning Network
     image:
