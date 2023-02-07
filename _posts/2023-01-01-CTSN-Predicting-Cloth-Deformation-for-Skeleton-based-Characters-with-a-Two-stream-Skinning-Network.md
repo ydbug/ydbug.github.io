@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "CTSN：Predicting Cloth Deformation for Skeleton-based Characters with a Two-stream Skinning Network"
+author: Yudi Li, Min Tang, Yun Yang
 date:   2023-01-01 10:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/CSTN.jpg
