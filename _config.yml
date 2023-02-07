@@ -15,6 +15,7 @@ header:
       slug: /
     - name: Work
     - name: Publication
+    - name: Patent
     # - name: Blog
 
 footer:
