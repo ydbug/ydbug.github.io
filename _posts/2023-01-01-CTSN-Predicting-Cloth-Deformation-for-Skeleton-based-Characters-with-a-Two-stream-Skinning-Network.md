@@ -7,13 +7,13 @@ blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/CSTN.jpg
 ---
 
-Yudi Li$^{1}$, Min Tang$^{1}$, Yun Yang$^{1}$, Zi Huang$^{1}$, Ruofeng Tong$^{1}$, Shuangcai Yang$^{3}$, Yao Li$^{3}$, Dinesh Manocha$^{2}$
+Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Zi Huang<sup>1</sup>, Ruofeng Tong<sup>1</sup>, Shuangcai Yang<sup>3</sup>, Yao Li<sup>3</sup>, Dinesh Manocha<sup>2</sup>
 
-*$^{1}$ Zhejiang University, China*
+*<sup>1</sup> Zhejiang University, China*
 
-*$^{2}$ University of Maryland at College Park, America*
+*<sup>2</sup> University of Maryland at College Park, America*
 
-*$^{3}$ Tencen*t
+*<sup>3</sup> Tencen*t
 
 <img src="{{ "/assets/img/content/post-example/CSTN.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
