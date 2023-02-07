@@ -21,7 +21,7 @@
             <span class="publication-text">
               {% for post in site.posts %}
 
-              {% if post.title == item.title %}
+              {% if post.draft != true %}
                 <span class="blog-post-date">{{ post.date | date: "%-m/%-d/%y" }}</span>
                 <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="blog-post-title">
                   {{ item.title }}
@@ -31,7 +31,7 @@
               {% endif %}
 
             {% endfor %}
-              <!-- <strong>{{ item.title }}</strong> -->
+              <strong>{{ item.title }}</strong>
               &mdash;
               {{ item.description }}
             </span>
