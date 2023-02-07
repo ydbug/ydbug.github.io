@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "N-Cloth：Predicting 3D Cloth Deformation with Mesh-Based Networks"
-date:   2022-06-10 10:00:00
+date:
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/NCloth.jpg
 ---
@@ -17,6 +17,8 @@ Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Zi Huang<sup>1<
 <img src="{{ "/assets/img/content/post-example/NCloth.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
+
+We present a novel mesh-based learning approach (N-Cloth) for plausible 3D cloth deformation prediction. Our approach is  general and can handle cloth or obstacles represented by triangle meshes with arbitrary topologies. We use  graph convolution to transform the cloth and object meshes into a latent space to reduce the non-linearity in the mesh space. Our network can predict the target 3D cloth mesh deformation based on the initial state of the cloth mesh template and the target obstacle  mesh. Our approach can handle complex cloth meshes with up to $100$K triangles and scenes with various objects corresponding to SMPL humans, non-SMPL humans or rigid bodies. In practice, our approach can be used to generate plausible cloth simulation at $30-45$ fps on an NVIDIA GeForce RTX 3090 GPU. We highlight its benefits over prior learning-based methods and physically-based cloth simulators.
 
 This is an example of blog post.
 Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
