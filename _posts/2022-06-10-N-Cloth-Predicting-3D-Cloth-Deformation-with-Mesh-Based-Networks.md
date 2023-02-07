@@ -6,6 +6,14 @@ blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/NCloth.jpg
 ---
 
+Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Zi Huang<sup>1</sup>, Ruofeng Tong<sup>1</sup>, Shuangcai Yang<sup>3</sup>, Yao Li<sup>3</sup>, Dinesh Manocha<sup>2</sup>
+
+<sup>1</sup><i>Zhejiang University, China</i>
+
+<sup>2</sup><i>University of Maryland at College Park, America</i>
+
+<sup>3</sup><i>Tencent</i>
+
 <img src="{{ "/assets/img/content/post-example/NCloth.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
