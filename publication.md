@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Publication
-slug: /Publication
+slug: /publication
 items:
   - title: My Interest 1
     image:
