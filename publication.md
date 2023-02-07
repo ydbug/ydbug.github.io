@@ -5,7 +5,7 @@ slug: /publication
 items:
   - title: CTSN：Predicting Cloth Deformation for Skeleton-based Characters with a Two-stream Skinning Network
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/CTSN.png
       alt: water
     description: CTSN is a novel learning method to predict the cloth deformation for skeleton-based characters with a two-stream network. This network architecture consists of skeleton-based and mesh-based residual networks to learn the coarse and wrinkle features as the overall residual from the template cloth mesh. The characters processed are not limited to humans, and can be other skeletal-based representations of non-human targets such as fish or pets. 
   - title: N-Cloth：Predicting 3D Cloth Deformation with Mesh-Based Networks
