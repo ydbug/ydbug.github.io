@@ -28,7 +28,7 @@ footer:
       link: "#"
   follow:
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: https://github.com/ydbug
 
 # Build settings
 markdown: kramdown
