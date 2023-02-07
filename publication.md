@@ -1,5 +1,5 @@
 ---
-layout: Publication
+layout: publication
 title: Publication
 slug: /Publication
 items:
