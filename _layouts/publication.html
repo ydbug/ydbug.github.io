@@ -21,7 +21,7 @@
             <span class="publication-text">
               {% for post in site.posts %}
 
-              {% if post.draft != true %}
+              {% if post.title == item.title %}
                 <a href="{{ post.url | replace:".html","" | prepend: site.baseurl }}" class="publication-post-title">
                   {{ item.title }}
                 </a>
