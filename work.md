@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: Publication
 slug: /work
 items:
   - title: My Interest 1
