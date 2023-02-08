@@ -18,7 +18,7 @@ Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Ruofeng Tong<su
 
 ## Abstraction
 
-We present a novel learning method to predict the cloth deformation for skeleton-based characters with a two-stream network. The characters processed in our approach are not limited to humans, and can be other skeletal-based representations of non-human targets such as fish or pets. We use a novel network architecture which consists of skeleton-based and mesh-based residual networks to learn the coarse and wrinkle features as the overall residual from the template cloth mesh. Our network is used to predict the deformation for loose or tight-fitting clothing or dresses. We ensure that the memory footprint of our network is low, and thereby result in reduced storage and computational requirements. In practice, our prediction for a single cloth mesh for the skeleton-based character takes about $7$ milliseconds on an NVIDIA GeForce RTX 3090 GPU. Compared with prior methods, our network can generate fine deformation results with details and wrinkles.
+We present a novel learning method to predict the cloth deformation for skeleton-based characters with a two-stream network. The characters processed in our approach are not limited to humans, and can be other skeletal-based representations of non-human targets such as fish or pets. We use a novel network architecture which consists of skeleton-based and mesh-based residual networks to learn the coarse and wrinkle features as the overall residual from the template cloth mesh. Our network is used to predict the deformation for loose or tight-fitting clothing or dresses. We ensure that the memory footprint of our network is low, and thereby result in reduced storage and computational requirements. In practice, our prediction for a single cloth mesh for the skeleton-based character takes about 7 milliseconds on an NVIDIA GeForce RTX 3090 GPU. Compared with prior methods, our network can generate fine deformation results with details and wrinkles.
 
 <br />
 
@@ -32,11 +32,18 @@ We present a novel learning method to predict the cloth deformation for skeleton
       - [PART 2 SUB PART 2](#part-2-sub-part-2)
       - [FOOTNOTES](#footnotes) -->
 
-#### PART 1
+#### Results
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 <br />
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<video width="320" height="240" controls autoplay>
+  <source src="/assets/img/content/post-example/CSTN/CSTN.ogg" type="video/ogg">
+  <source src="/assets/img/content/post-example/CSTN/CSTN.mp4" type="video/mp4">
+  <source src="/assets/img/content/post-example/CSTN/CSTN.webm" type="video/webm">
+  <object data="/assets/img/content/post-example/CSTN/CSTN.mp4" width="320" height="240">
+    <embed width="320" height="240" src="/assets/img/content/post-example/CSTN/CSTN.swf">
+  </object>
+</video>
 
 <br />
 <br />
