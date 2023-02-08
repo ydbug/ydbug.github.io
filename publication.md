@@ -7,6 +7,7 @@ items:
     image:
       src: /assets/img/work/CTSN.jpg
       alt: water
+    author: 
     level: (CVM2023)
     description: CTSN is a novel learning method to predict the cloth deformation for skeleton-based characters with a two-stream network. The characters processed are not limited to humans, and can be other skeletal-based representations of non-human targets such as fish or pets. 
   - title: N-Cloth：Predicting 3D Cloth Deformation with Mesh-Based Networks
