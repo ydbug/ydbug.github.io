@@ -12,7 +12,7 @@ Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Ruofeng Tong<su
 
 <sup>2</sup><i>Tencent</i>
 
-<img src="{{ "/assets/img/content/post-example/CSTN.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/CSTN/CSTN.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
@@ -35,11 +35,11 @@ We present a novel learning method to predict the cloth deformation for skeleton
 #### Results
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<img src="{{ "/assets/img/content/post-example/0.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/CSTN/0.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 
-<img src="{{ "/assets/img/content/post-example/12.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/CSTN/12.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 
-<img src="{{ "/assets/img/content/post-example/14.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/CSTN/14.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 
 <br />
 
