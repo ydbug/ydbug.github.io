@@ -35,11 +35,11 @@ We present a novel learning method to predict the cloth deformation for skeleton
 #### Results
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<img src="{{ "/assets/img/content/post-example/CSTN/0.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/CSTN/0.jpg" | absolute_url }}" alt="bay" class="post-pic" width="304"/>
 
-<img src="{{ "/assets/img/content/post-example/CSTN/12.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/CSTN/12.jpg" | absolute_url }}" alt="bay" class="post-pic" width="304"/>
 
-<img src="{{ "/assets/img/content/post-example/CSTN/14.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/CSTN/14.jpg" | absolute_url }}" alt="bay" class="post-pic" width="304"/>
 
 <br />
 
