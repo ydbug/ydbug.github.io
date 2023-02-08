@@ -11,7 +11,6 @@ profile_picture:
 
 <p>
   <strong>Research Interests:</strong>
-  <br />
   <ul>
     <li>Physics-based Cloth Simulation</li>
     <li>Graph-based Learning</li>
