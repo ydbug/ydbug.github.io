@@ -3,35 +3,35 @@ layout: publication
 title: Publication
 slug: /publication
 items:
-  - title: CTSN：Predicting Cloth Deformation for Skeleton-based Characters with a Two-stream Skinning Network
+  - title: "CTSN: Predicting Cloth Deformation for Skeleton-based Characters with a Two-stream Skinning Network"
     image:
       src: /assets/img/work/CTSN.jpg
       alt: water
     author: Yudi Li, Min Tang, Yun Yang, Ruofeng Tong, Shuangcai Yang, Yao Li, Bailin An, Qilong Kou
     level: (CVM2023)
     description: CTSN is a novel learning method to predict the cloth deformation for skeleton-based characters with a two-stream network. The characters processed can be humans and other skeletal-based non-human targets such as fish or pets. 
-  - title: N-Cloth：Predicting 3D Cloth Deformation with Mesh-Based Networks
+  - title: "N-Cloth: Predicting 3D Cloth Deformation with Mesh-Based Networks"
     image:
       src: /assets/img/work/NCloth.jpg
       alt: sand
     author: Yudi Li, Min Tang, Yun Yang, Zi Huang, Ruofeng Tong, Shuangcai Yang, Yao Li, Dinesh Manocha
     level: (EG2022)
     description: N-Cloth is a novel mesh-based learning approach for plausible 3D cloth deformation prediction. N-Cloth can handle cloth or obstacles represented by triangle meshes with arbitrary topologies.
-  - title: A novel heat transfer model of biomass briquettes based on secondary development in EDEM
+  - title: "A novel heat transfer model of biomass briquettes based on secondary development in EDEM"
     image:
       src: /assets/img/work/EDEM.jpg
       alt: sand
     author: Yudi Li, Hongguang Xu, Chenghu Jing, Jihai Jiang, Xuyan Hou
     level: (Renewable Energy)
     description: A heat transfer model based on plastic deformation was constructed in the EDEM by discrete element method at the grain scale.
-  - title: 基于离散元法的生物质成型传热特性研究
+  - title: "基于离散元法的生物质成型传热特性研究"
     image:
       src: /assets/img/work/Master.jpg
       alt: sand
     author: Yudi Li
     level: (Thesis)
     description: 基于离散元理论分析颗粒成型的传热过程,考虑塑形变形,计算颗粒间的接触力;分别对生物质颗粒与模具间和两个颗粒间的传热情况进行建模分析,并考虑用Verlet方法对传热过程进行迭代计算。用C++实现颗粒的力学和传热模型,二次开发EDEM API接口,对成型传热过程进行离散元数值模拟。
-  - title: 闭式生物质热压成型传热模拟
+  - title: "闭式生物质热压成型传热模拟"
     image:
       src: /assets/img/work/XL.jpg
       alt: sand

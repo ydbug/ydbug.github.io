@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CTSN：Predicting Cloth Deformation for Skeleton-based Characters with a Two-stream Skinning Network"
+title:  "CTSN: Predicting Cloth Deformation for Skeleton-based Characters with a Two-stream Skinning Network"
 date:   2019-10-26 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/CSTN.jpg
