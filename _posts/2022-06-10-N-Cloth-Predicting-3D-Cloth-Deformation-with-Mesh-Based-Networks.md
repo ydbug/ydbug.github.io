@@ -14,48 +14,20 @@ Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Zi Huang<sup>1<
 
 <sup>3</sup><i>Tencent</i>
 
-<img src="{{ "/assets/img/content/post-example/NCloth.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
-<br />
-<br />
+<img src="{{ "/assets/img/content/post-example/NCloth/NCloth.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+
+## Abstraction
 
 We present a novel mesh-based learning approach (N-Cloth) for plausible 3D cloth deformation prediction. Our approach is  general and can handle cloth or obstacles represented by triangle meshes with arbitrary topologies. We use  graph convolution to transform the cloth and object meshes into a latent space to reduce the non-linearity in the mesh space. Our network can predict the target 3D cloth mesh deformation based on the initial state of the cloth mesh template and the target obstacle  mesh. Our approach can handle complex cloth meshes with up to $100$K triangles and scenes with various objects corresponding to SMPL humans, non-SMPL humans or rigid bodies. In practice, our approach can be used to generate plausible cloth simulation at $30-45$ fps on an NVIDIA GeForce RTX 3090 GPU. We highlight its benefits over prior learning-based methods and physically-based cloth simulators.
 
-<br />
+## Results
+Our network can not only handle SMPL and non-SMPL human bodies, but also rigid obstacles. Our network can also process various types of clothes without providing skin models for those clothes. Compared with the previous method, our network can handle more scenarios.
 
+<img src="{{ "/assets/img/content/post-example/NCloth/1.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 
-<!-- #### Table of Contents
-- [Table of Contents](#table-of-contents)
-- [PART 1](#part-1)
-- [PART 2](#part-2)
-  - [PART 2 SUB PART 1](#part-2-sub-part-1)
-  - [PART 2 SUB PART 2](#part-2-sub-part-2)
-  - [FOOTNOTES](#footnotes) -->
+<img src="{{ "/assets/img/content/post-example/NCloth/12.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 
-#### PART 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-<br />
+## Video
+Here is the demo video.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<br />
-<br />
-
-#### PART 2
-**Lorem ipsum dolor sit amet,** consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-<br />
-
-##### PART 2 SUB PART 1
-*Duis aute irure dolor in reprehenderit* in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<br />
-
-##### PART 2 SUB PART 2
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<br />
-
-
-##### FOOTNOTES
-
-[^1]: This is a note!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TCPpvx9vYns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
