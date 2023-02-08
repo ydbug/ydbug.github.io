@@ -7,6 +7,6 @@ items:
   - title: 2. 一种基于骨架的目标姿势下布料静态变形双相流网络方法
 ---
 
-This is my work experience.
+This is the patent list.
 <br />
 <br />
