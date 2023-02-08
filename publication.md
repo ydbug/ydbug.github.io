@@ -9,21 +9,21 @@ items:
       alt: water
     author: Yudi Li, Min Tang, Yun Yang, Ruofeng Tong, Shuangcai Yang, Yao Li, Bailin An, Qilong Kou
     level: (CVM2023)
-    description: CTSN is a novel learning method to predict the cloth deformation for skeleton-based characters with a two-stream network. The characters processed are not limited to humans, and can be other skeletal-based representations of non-human targets such as fish or pets. 
+    description: CTSN is a novel learning method to predict the cloth deformation for skeleton-based characters with a two-stream network. The characters processed can be humans and other skeletal-based non-human targets such as fish or pets. 
   - title: N-Cloth：Predicting 3D Cloth Deformation with Mesh-Based Networks
     image:
       src: /assets/img/work/NCloth.jpg
       alt: sand
     author: Yudi Li, Min Tang, Yun Yang, Zi Huang, Ruofeng Tong, Shuangcai Yang, Yao Li, Dinesh Manocha
     level: (EG2022)
-    description: N-Cloth is a novel mesh-based learning approach for plausible 3D cloth deformation prediction. N-Cloth can handle cloth or obstacles represented by triangle meshes with arbitrary topologies. Graph convolution is used to transform the cloth and object meshes into a latent space to reduce the non-linearity in the mesh space.
+    description: N-Cloth is a novel mesh-based learning approach for plausible 3D cloth deformation prediction. N-Cloth can handle cloth or obstacles represented by triangle meshes with arbitrary topologies.
   - title: A novel heat transfer model of biomass briquettes based on secondary development in EDEM
     image:
       src: /assets/img/work/EDEM.jpg
       alt: sand
     author: Yudi Li, Hongguang Xu, Chenghu Jing, Jihai Jiang, Xuyan Hou
     level: (Renewable Energy)
-    description: A heat transfer model based on plastic deformation was constructed in the EDEM by discrete element method at the grain scale. The prediction performance of the model was validated by comparing the temperature evolution in simulation with the experimental values.
+    description: A heat transfer model based on plastic deformation was constructed in the EDEM by discrete element method at the grain scale.
   - title: 基于离散元法的生物质成型传热特性研究
     image:
       src: /assets/img/work/Master.jpg
