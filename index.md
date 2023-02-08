@@ -10,5 +10,11 @@ profile_picture:
 </p>
 
 <p>
-  <strong>Research Interests:</strong>  I have broad interests in Physics-based Cloth Simulation and Deep Learning.You can find the source code and the instructions on <a href="https://ydbug.github.io">GitHub</a>.
+  <strong>Research Interests:</strong>
+  <br />
+  Physics-based Cloth Simulation, Deep Learning.
+</p>
+
+<p>
+  You can find the source code and the instructions on <a href="https://ydbug.github.io">GitHub</a>.
 </p>
