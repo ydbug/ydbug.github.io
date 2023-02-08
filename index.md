@@ -12,7 +12,11 @@ profile_picture:
 <p>
   <strong>Research Interests:</strong>
   <br />
-  Physics-based Cloth Simulation, Deep Learning.
+  <ul>
+    <li>Physics-based Cloth Simulation</li>
+    <li>Graph-based Learning</li>
+    <li>CAE Simulation</li>
+  </ul>
 </p>
 
 <p>
