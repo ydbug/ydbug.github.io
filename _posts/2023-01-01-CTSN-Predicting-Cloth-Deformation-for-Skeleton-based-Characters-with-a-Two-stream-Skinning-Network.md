@@ -43,14 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br />
 
-<video width="320" height="240" controls autoplay>
-  <source src="/assets/img/content/post-example/CSTN/CSTN.ogg" type="video/ogg">
-  <source src="/assets/img/content/post-example/CSTN/CSTN.mp4" type="video/mp4">
-  <source src="/assets/img/content/post-example/CSTN/CSTN.webm" type="video/webm">
-  <object data="/assets/img/content/post-example/CSTN/CSTN.mp4" width="320" height="240">
-    <embed width="320" height="240" src="/assets/img/content/post-example/CSTN/CSTN.swf">
-  </object>
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41yzneqq-oE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br />
 <br />
