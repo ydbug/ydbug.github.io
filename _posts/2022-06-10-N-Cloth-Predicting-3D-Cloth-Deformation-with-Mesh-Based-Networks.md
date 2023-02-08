@@ -14,6 +14,11 @@ Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Zi Huang<sup>1<
 
 <sup>3</sup><i>Tencent</i>
 
+<strong>
+Same page link:
+</strong>
+<a href="https://min-tang.github.io/home/NCloth/">(https://min-tang.github.io/home/NCloth/)</a>
+
 <img src="{{ "/assets/img/content/post-example/NCloth/NCloth.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 
 ## Abstraction
