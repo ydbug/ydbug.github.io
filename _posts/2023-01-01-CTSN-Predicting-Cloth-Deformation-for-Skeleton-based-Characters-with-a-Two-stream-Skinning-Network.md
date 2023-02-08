@@ -6,7 +6,7 @@ blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/CSTN.jpg
 ---
 
-Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Ruofeng Tong<sup>1</sup>, Shuangcai Yang<sup>2</sup>, Yao Li<sup>2</sup>, Bailin An<sup>2</sup>$, Qilong Kou<sup>2</sup>
+Yudi Li<sup>1</sup>, Min Tang<sup>1</sup>, Yun Yang<sup>1</sup>, Ruofeng Tong<sup>1</sup>, Shuangcai Yang<sup>2</sup>, Yao Li<sup>2</sup>, Bailin An<sup>2</sup>, Qilong Kou<sup>2</sup>
 
 <sup>1</sup><i>Zhejiang University, China</i>
 
