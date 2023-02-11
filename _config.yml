@@ -16,6 +16,7 @@ header:
     - name: Work
     - name: Publication
     - name: Patent
+    - name: CV
     # - name: Blog
 
 footer:
