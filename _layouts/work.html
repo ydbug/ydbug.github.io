@@ -27,6 +27,17 @@
               <i>{{ item.company }}</i>
               <br />
               {{ item.description }}
+
+              {% if item.date == "2022.6-2022.9" %}
+                <strong>
+                  <a href="{{ /assets/result/李玉迪_实习答辩.pptx | absolute_url }}" style="color:Black;" class="work-post-title">
+                    {{ item.result }}
+                  </a>
+                </strong>
+                <br />
+
+              {% endif %}
+
             </span>
           </div>
           {% endfor %}

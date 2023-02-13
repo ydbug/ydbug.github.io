@@ -7,6 +7,7 @@ items:
     date: 2022.6-2022.9
     company: Tencent, Inc.
     description: Developed learning based cloth deformation prediction for sekeleton character in Unity with Motion Matching.
+    result: Result
   - title: Co-op Student
     date: 2021.9-Now
     company: Tencent, Inc.
